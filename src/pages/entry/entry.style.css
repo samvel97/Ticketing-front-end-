@@ -1,0 +1,15 @@
+.entry-page {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #F1F3F4 !important;
+}
+
+.form-box {
+  box-shadow: 0px 0px 15px -5px black;
+  background-color:#A6CE38  !important;
+  color: white;
+}
+
+

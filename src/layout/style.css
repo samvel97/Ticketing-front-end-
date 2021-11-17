@@ -1,0 +1,12 @@
+.navbar{
+    background-color: #A6CE38;
+    position: fixed !important;
+    top: 0;
+    width: 100%;
+    z-index: 1;
+}
+
+.main{
+    margin-left:18%;
+    margin-top:5%;
+}

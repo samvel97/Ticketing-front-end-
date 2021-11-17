@@ -1,0 +1,34 @@
+.default-layout {
+  display: gird;
+  grid-template-rows: 80px auto 3rem;
+  grid-template-areas:
+    "header"
+    "main"
+    "footer";
+}
+
+.header {
+  grid-area: header;
+  /* background-color: black !important; */
+}
+
+.conteiner{
+  display: flex;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+  width: 80%;
+  min-height: 88vh;
+}
+
+footer {
+  grid-area: footer;
+  background: black;
+  padding: 1rem;
+  color: white;
+}

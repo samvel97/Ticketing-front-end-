@@ -1,0 +1,9 @@
+.profileContainer{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+
+.form{
+    width: 70%;
+}

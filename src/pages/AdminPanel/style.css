@@ -1,0 +1,12 @@
+.adminpanels{
+    margin-left: 50px;
+}
+
+td{
+    overflow: hidden;
+    max-width: 50px;
+}
+
+td:hover{
+    overflow:auto;
+}
